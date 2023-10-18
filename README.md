@@ -2,7 +2,7 @@
 
 #### If you ask a prospective purchaser to define their ideal home, they usually will not start by talking about how high the basement ceiling is or how close it is to an east-west railroad. However, the goal of this study demonstrate that factors other than the number of beds or a white picket fence have a significant impact on price discussions.
 
-#### This project asks you to forecast the eventual price of each property using 79 explanatory factors that describe (nearly) every feature of residential dwellings in Ames, Iowa.
+#### I forecast the eventual price of each property using 79 explanatory factors that describe (nearly) every feature of residential dwellings in Iowa.
 
 #### Program Components:
 - Creative feature engineering 
